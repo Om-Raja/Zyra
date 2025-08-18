@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "This is backend of my zyra the video chat app. This is built using Node.js Socket.io and WebRTC",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Om Raja",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.8.1"
+  }
+}
